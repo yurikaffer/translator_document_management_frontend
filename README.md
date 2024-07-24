@@ -63,8 +63,8 @@ O projeto inclui um `Dockerfile` para construção da imagem Docker e um `docker
 1. **Clone o Repositório:**
     
     ```bash
-    git clone https://github.com/seu_usuario/next-app-template
-    cd next-app-template
+    git clone https://github.com/yurikaffer/translator_document_management_frontend
+    cd translator_document_management_frontend
     ```
     
 2. **Instale as Dependências:**
